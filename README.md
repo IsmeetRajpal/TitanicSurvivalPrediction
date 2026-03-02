@@ -35,3 +35,5 @@ During the analysis, I discovered several key patterns:
 1. Clone this repository.
 2. Ensure you have Python installed.
 3. Run `python final.py` to see the model results.
+
+This is Titanic Survival Prediction Link : http://localhost:8502/
